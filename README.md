@@ -32,22 +32,26 @@ This script prioritizes **system stability** and **error handling**:
 
 ## Installation & Usage
 
+## Installation & Usage
+
 1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+```
 
-
-2.  **Make the script executable:**
+2. **Make the script executable:**
 
 ```bash
 chmod +x project4_user_mgmt.sh
+```
 
 3. **Run with sudo:**
 
 ```bash
 sudo ./project4_user_mgmt.sh
+```
 
 ## Code Structure
 
