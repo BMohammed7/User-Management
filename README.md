@@ -37,7 +37,7 @@ This script prioritizes **system stability** and **error handling**:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/BMohammed7/User-Management.git
 cd your-repo-name
 ```
 
